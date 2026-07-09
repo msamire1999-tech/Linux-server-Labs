@@ -9,11 +9,11 @@ The project covers the complete process of configuring network interfaces, enabl
 
 # Lab Environment
 
-Operating System: Ubuntu Server
- - Virtualization: Oracle VirtualBox
-Client OS: Windows 10
- - Networking: Internal Network + NAT
- Technologies: Netplan, IP Forwarding, iptables (MASQUERADE)
+- Operating System: Ubuntu Server
+ -- Virtualization: Oracle VirtualBox
+- Client OS: Windows 10
+ - - Networking: Internal Network + NAT
+ - Technologies: Netplan, IP Forwarding, iptables (MASQUERADE)
 
 # Objectives
 
@@ -51,11 +51,11 @@ Network Troubleshooting
 
 The repository includes a detailed PDF report containing:
 
-Configuration steps
-Command outputs
-Screenshots
-Network verification tests
-Final results
+- Configuration steps
+- - Command outputs
+- Screenshots
+- - Network verification tests
+- Final results
 
 # Learning Outcome
 
