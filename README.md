@@ -10,19 +10,19 @@ The project covers the complete process of configuring network interfaces, enabl
 # Lab Environment
 
 - Operating System: Ubuntu Server
- -- Virtualization: Oracle VirtualBox
+-  Virtualization: Oracle VirtualBox
 - Client OS: Windows 10
- - - Networking: Internal Network + NAT
- - Technologies: Netplan, IP Forwarding, iptables (MASQUERADE)
+- Networking: Internal Network + NAT
+-  Technologies: Netplan, IP Forwarding, iptables (MASQUERADE)
 
 # Objectives
 
-Configure Ubuntu Server network interfaces.
- - Assign a static IP address using Netplan.
- Enable IP Forwarding.
- - Configure NAT using iptables.
- Connect Windows clients through the Ubuntu gateway.
- - Verify connectivity using ping tests.
+- Configure Ubuntu Server network interfaces.
+- Assign a static IP address using Netplan.
+- Enable IP Forwarding.
+- Configure NAT using iptables.
+- Connect Windows clients through the Ubuntu gateway.
+- Verify connectivity using ping tests.
 
 # Lab Steps
 
@@ -35,17 +35,17 @@ Test communication between clients and the Ubuntu gateway.
 
 # Skills Demonstrated
 
-Linux System Administration
-Ubuntu Server Configuration
-Netplan
-TCP/IP Networking
-Routing
-NAT Configuration
-IP Forwarding
-iptables Firewall
-VirtualBox Networking
-Windows Client Configuration
-Network Troubleshooting
+- Linux System Administration
+- Ubuntu Server Configuration
+- Netplan
+- TCP/IP Networking
+- Routing
+- NAT Configuration
+- IP Forwarding
+- iptables Firewall
+- VirtualBox Networking
+- Windows Client Configuration
+- Network Troubleshooting
   
 # Lab Report
 
