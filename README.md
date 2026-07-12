@@ -81,5 +81,7 @@ This repository will continue to expand with practical Linux System Administrati
 - Active Directory Integration
 - - Windows Domain Services
 - Group Policy (GPO)
-
+- Asterisk Voip
 Author: Samirə Məmmədova
+
+-
